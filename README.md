@@ -1,2 +1,2 @@
-# C-Sharp-
+# C# (Sharp)
 Do básico ao avançado
