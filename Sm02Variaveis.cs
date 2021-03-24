@@ -9,7 +9,7 @@ namespace teste
             //Tipos mais comuns
             //string (texto) tem que ficar dentro de ""
             string car = "audi";
-            //int
+            //int (números inteiros)
             int idade = 20;
             float nota = 9.5f;
             bool vivo = true;
