@@ -7,6 +7,7 @@ namespace teste
         static void Main(String[] args)
         {
             //Tipos mais comuns
+            //string tem que ficar dentro de ""
             string car = "audi";
             int idade = 20;
             float nota = 9.5f;
