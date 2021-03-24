@@ -6,7 +6,10 @@ namespace teste
     {
         static void Main(String[] args)
         {
-            //Grava na tela e pula linha
+            //Grava dados
+            Console.Write("Hello world");
+
+            //Grava dados e pula linha
             Console.WriteLine("Hello world");
             Console.ReadLine();
         }
