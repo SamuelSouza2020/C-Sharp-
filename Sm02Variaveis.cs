@@ -11,6 +11,7 @@ namespace teste
             string car = "audi";
             //int (números inteiros)
             int idade = 20;
+            //float (números flutuantes) deve ficar com o "f" no final dele
             float nota = 9.5f;
             bool vivo = true;
         }
