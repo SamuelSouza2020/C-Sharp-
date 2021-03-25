@@ -14,6 +14,11 @@ namespace teste
             int z = 50;
             z+= 50;
             //Os resultados serão os mesmos
+
+            //Incremento e Decremento
+            int y = 10;
+            //Para acrescentar
+            ++y;
         }
     }
 }
