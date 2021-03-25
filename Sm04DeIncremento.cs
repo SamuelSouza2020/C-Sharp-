@@ -28,6 +28,9 @@ namespace teste
             n++;
             //Para subtrair
             n--;
+
+            //A diferença é que no pré ele faz a operação antes de finalizar a instrução
+            //No pós depois de finalizar a instrução
         }
     }
 }
