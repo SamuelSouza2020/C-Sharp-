@@ -25,7 +25,7 @@ namespace teste
             //Incremento e Decremento Pós
             int n = 5;
             //Para acrescentar
-            n++
+            n++;
         }
     }
 }
