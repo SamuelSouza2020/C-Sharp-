@@ -19,13 +19,15 @@ namespace teste
             int y = 10;
             //Para acrescentar
             ++y;
-            //Para diminuir
+            //Para subtrair
             --y;
 
             //Incremento e Decremento Pós
             int n = 5;
             //Para acrescentar
             n++;
+            //Para subtrair
+            n--;
         }
     }
 }
