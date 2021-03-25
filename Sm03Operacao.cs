@@ -32,6 +32,7 @@ namespace teste
             float conta = 300.5f - 223.45f;
 
             //para visualizar utiliza o nome dentro do console
+            Console.WriteLine(conta);
             
         }
     }
