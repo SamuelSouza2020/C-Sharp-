@@ -33,7 +33,8 @@ namespace teste
 
             //para visualizar utiliza o nome dentro do console
             Console.WriteLine(conta);
-            
+            //não é necessário converter para string, mas caso queira...
+            Console.WriteLine(conta.ToString());
         }
     }
 }
