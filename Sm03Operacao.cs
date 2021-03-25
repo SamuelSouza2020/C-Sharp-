@@ -18,6 +18,7 @@ namespace teste
 
             //As operações aritméticas podem ser feita diretamente na variavel
             int naVariavel = 35 + 10;
+            int naVariavel2 = 35 - 10;
         }
     }
 }
