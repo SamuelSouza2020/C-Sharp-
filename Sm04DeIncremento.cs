@@ -6,8 +6,11 @@ namespace teste
     {
         static void Main(String[] args)
         {
-            Console.WriteLine();
-            Console.ReadLine();
+            //Um comando pode ser descrito de diversas maneiras
+            //De operação normal
+            int x = 10;
+            x = x + 1;
+            
         }
     }
 }
