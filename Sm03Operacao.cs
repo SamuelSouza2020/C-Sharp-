@@ -19,6 +19,15 @@ namespace teste
             //As operações aritméticas podem ser feita diretamente na variavel
             int naVariavel = 35 + 10;
             int naVariavel2 = 35 - 10;
+            
+            //por float
+            float nota = 8.5f;
+            float notaMax = 10f;
+
+            float faltaNot = notaMax - nota;
+            float notaDiv = notaMax / nota;
+            float notaSom = notaMax + nota;
+            float notaMult = notaMax * nota;
         }
     }
 }
