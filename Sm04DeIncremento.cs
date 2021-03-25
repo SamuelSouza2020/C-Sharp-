@@ -19,6 +19,8 @@ namespace teste
             int y = 10;
             //Para acrescentar
             ++y;
+            //Para diminuir
+            --y;
         }
     }
 }
