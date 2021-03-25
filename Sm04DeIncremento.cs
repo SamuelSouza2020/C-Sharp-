@@ -21,6 +21,11 @@ namespace teste
             ++y;
             //Para diminuir
             --y;
+
+            //Incremento e Decremento Pós
+            int n = 5;
+            //Para acrescentar
+            n++
         }
     }
 }
