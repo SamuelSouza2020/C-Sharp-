@@ -13,6 +13,8 @@ namespace teste
 
             int soma = x + y;
             int subtracao = y - x;
+            int divisao = y / x;
+            int multiplicacao = y * x;
         }
     }
 }
