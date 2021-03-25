@@ -10,7 +10,10 @@ namespace teste
             //De operação normal
             int x = 10;
             x = x + 1;
-            
+            //para operação atribuida
+            int z = 50;
+            z+= 50;
+            //Os resultados serão os mesmos
         }
     }
 }
