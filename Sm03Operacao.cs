@@ -30,6 +30,9 @@ namespace teste
             float notaMult = notaMax * nota;
             //ou
             float conta = 300.5f - 223.45f;
+
+            //para visualizar utiliza o nome dentro do console
+            
         }
     }
 }
