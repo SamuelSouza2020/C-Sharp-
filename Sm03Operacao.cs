@@ -15,6 +15,9 @@ namespace teste
             int subtracao = y - x;
             int divisao = y / x;
             int multiplicacao = y * x;
+
+            //As operações aritméticas podem ser feita diretamente na variavel
+            int naVariavel = 35 + 10;
         }
     }
 }
