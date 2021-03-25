@@ -35,6 +35,9 @@ namespace teste
             Console.WriteLine(conta);
             //não é necessário converter para string, mas caso queira...
             Console.WriteLine(conta.ToString());
+
+
+            Console.ReadLine();
         }
     }
 }
