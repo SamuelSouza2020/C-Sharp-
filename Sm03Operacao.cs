@@ -25,9 +25,15 @@ namespace teste
             float notaMax = 10f;
 
             float faltaNot = notaMax - nota;
-            float notaDiv = notaMax / nota;
             float notaSom = notaMax + nota;
             float notaMult = notaMax * nota;
+            float notaDiv = notaMax / nota;
+            //Caso use divisão em um float sendo que os dois são inteiro
+            //para ver o valor flutuante é necessario colocar o F em um dos valores
+            float divSem = 10 / 3; //nessa divisão será mostrado somente numero inteiro pois não tem F
+            float divCom = 10 / 3f; //nessa mostrará porque tem o F em um dos valores
+                
+                
             //ou
             float conta = 300.5f - 223.45f;
 
