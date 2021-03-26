@@ -1,6 +1,6 @@
 using System;
 
-namespace teste
+namespace Sm02Variaveis
 {
     class Program
     {
