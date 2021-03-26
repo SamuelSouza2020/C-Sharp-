@@ -2,7 +2,7 @@ using System;
 
 namespace teste
 {
-    class Program
+    class Sm04DeIncremento
     {
         static void Main(String[] args)
         {
