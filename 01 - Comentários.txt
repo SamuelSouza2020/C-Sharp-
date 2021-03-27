@@ -5,3 +5,6 @@ linha com duas barras //
 
 //Essa linha é somente um comentário!!
  Console.WriteLine("Essa linha não é um comentário");
+
+ Lembrando que esse arquivo é .txt então não é script.
+ Todos comandos acima só funcionaram no script.
