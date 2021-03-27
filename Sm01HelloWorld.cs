@@ -8,7 +8,6 @@ namespace Sm01HelloWorld
         {
             //Grava dados
             Console.Write("Hello world");
-
             //Grava dados e pula linha
             Console.WriteLine("Hello world");
             //Lê a próxima linha
