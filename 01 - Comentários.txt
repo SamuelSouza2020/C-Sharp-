@@ -1,0 +1,7 @@
+No C# (Sharp) existe duas maneiras de comentar as linhas
+Usando duas barras. As duas barras fica atrás da linha que
+será ignorada. Fazendo isso o C# não irá lê o que está na
+linha com duas barras //
+
+//Essa linha é somente um comentário!!
+ Console.WriteLine("Essa linha não é um comentário");
