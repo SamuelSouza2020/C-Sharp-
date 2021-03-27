@@ -8,7 +8,7 @@ namespace Sm02Variaveis
         {
             //Tipos mais comuns
             //string (texto) tem que ficar dentro de ""
-            string car = "audi";
+            string nome = "Sharp";
             //int (números inteiros)
             int idade = 20;
             //float (números flutuantes) deve ficar com o "f" no final dele
