@@ -6,8 +6,8 @@ namespace teste
     {
         static void Main(String[] args)
         {
-            //Nesse voce declara 2 variaveis com determinado valor e usa outra
-            //Para fazer a operação aritmetica
+            //Nesse você declara 2 variáveis com determinados valores e usa outra
+            //Para fazer a operação aritmética
             int x = 10;
             int y = 20;
 
@@ -16,7 +16,7 @@ namespace teste
             int divisao = y / x;
             int multiplicacao = y * x;
 
-            //As operações aritméticas podem ser feita diretamente na variavel
+            //As operações aritméticas podem ser feita diretamente na variável
             int naVariavel = 35 + 10;
             int naVariavel2 = 35 - 10;
 
@@ -29,9 +29,9 @@ namespace teste
             float notaMult = notaMax * nota;
             float notaDiv = notaMax / nota;
             //Caso use divisão em um float sendo que os dois são inteiro
-            //para ver o valor flutuante é necessario colocar o F em um dos valores
-            float divSem = 10 / 3; //nessa divisão será mostrado somente numero inteiro pois não tem F
-            float divCom = 10 / 3f; //nessa mostrará porque tem o F em um dos valores
+            //para ver o valor flutuante é necessário colocar o F em um dos valores
+            float divSem = 10 / 3; //nessa divisão será mostrado somente número inteiro pois não tem F
+            float divCom = 10 / 3f; //nessa mostrará porquê tem o F em um dos valores
                 
                 
             //ou
