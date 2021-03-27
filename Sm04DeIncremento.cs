@@ -7,24 +7,24 @@ namespace teste
         static void Main(String[] args)
         {
             //Um comando pode ser descrito de diversas maneiras
-            //De operação normal
+            //Operação normal
             int x = 10;
             x = x + 1;
-            //para operação atribuida
-            int z = 50;
+            //Para operação atribuída
+            int z = 20;
             z+= 50;
             //Os resultados serão os mesmos
 
-            //Incremento e Decremento Pré
+            //Pré Incremento e Decremento
             int y = 10;
-            //Para acrescentar
+            //Para somar
             ++y;
             //Para subtrair
             --y;
 
-            //Incremento e Decremento Pós
+            //Pós Incremento e Decremento
             int n = 5;
-            //Para acrescentar
+            //Para somar
             n++;
             //Para subtrair
             n--;
