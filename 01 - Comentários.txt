@@ -14,3 +14,12 @@ depois do código também, deixando somente apartir
 das duas barras o comentário. Assim:
 
  Console.WriteLine("Até aqui não é comentário!"); //Apartir daqui é comentário
+
+
+ Comentário de Múltiplas Linhas
+ Quando o comentario exige muitas linhas sequenciais, é usado o Múltiplas Linhas
+ Ele é constituído no início por uma barra com asterisco (/*) e finaliza com
+ um asterisco e uma barra (*/), ficando assim:
+ /* Tudo escrito entre essa barra com asterisco e dentro do asterisco com barra
+ é comentário, independente de quantas linhas utilize, sendo uma, duas, cinco,
+ dez, cem, etc. Tudo dentro dela será um comentário.*/
