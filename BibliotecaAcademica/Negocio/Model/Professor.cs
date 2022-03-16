@@ -8,5 +8,11 @@ namespace Negocio.Model
 {
     internal class Professor
     {
+        private string disciplina;
+        public string Disciplina
+        {
+            get { return disciplina; }  
+            set { disciplina = value; }
+        }
     }
 }
