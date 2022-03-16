@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Negocio.Model
 {
-    internal class Professor
+    class Professor : Pessoa
     {
         private string disciplina;
         public string Disciplina

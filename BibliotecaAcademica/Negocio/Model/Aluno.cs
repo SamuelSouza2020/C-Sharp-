@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Negocio.Model
 {
-    internal class Aluno
+    class Aluno : Pessoa
     {
         private string mae;
         private string pai;
