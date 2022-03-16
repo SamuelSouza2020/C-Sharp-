@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Negocio.Model;//validar
+using Negocio.DAO; //mandar
 
 namespace Negocio.BO
 {
