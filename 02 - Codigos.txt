@@ -1,0 +1,9 @@
+Try - É uma excessão, praticamente um erro. Adicionado quando tem uma operação que é considerado crítica. Tratamento d excessões.
+
+Try
+{
+
+}Catch
+{
+
+}
