@@ -12,6 +12,7 @@ namespace RevendoConteudo
             string produto = "Pastel";
 
             Console.WriteLine("Produto - {0,15}", produto);
+            Console.WriteLine("Val.Compra - {0,15:c}", valorCompra);
         }
     }
 }
