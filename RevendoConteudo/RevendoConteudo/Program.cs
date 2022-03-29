@@ -4,15 +4,18 @@ namespace RevendoConteudo
 {
     class Program
     {
-        static void main(String[] args)
+        static void Main(String[] args)
         {
             double valorCompra = 5.50;
             double valorVenda;
             double lucro = 0.1;
             string produto = "Pastel";
-
+            //{numero da casa, numero de espaço}
+            //{0,15}
             Console.WriteLine("Produto - {0,15}", produto);
-            Console.WriteLine("Val.Compra - {0,15:c}", valorCompra);
+            //{numero da casa, numero de espaço: tipo monetário}
+            //{0,15:c}
+            Console.WriteLine("Val.Compra - {0,10:c}", valorCompra);
         }
     }
 }
