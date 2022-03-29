@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace RevendoConteudo
+{
+    class Program
+    {
+        static void main(String[] args)
+        {
+            double valorCompra = 5.50;
+            double valorVenda;
+            double lucro = 0.1;
+            string produto = "Pastel";
+
+            Console.WriteLine("Produto - {0,15}", produto);
+        }
+    }
+}
