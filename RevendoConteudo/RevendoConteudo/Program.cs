@@ -32,6 +32,11 @@ namespace RevendoConteudo
 
             Luta lt = Luta.Lança;
             Console.WriteLine(lt);
+
+            int carINT = 3;
+            long carLong = carINT;
+            short carShort = (short)carINT;
+            Console.WriteLine(carLong);
         }
     }
 }
