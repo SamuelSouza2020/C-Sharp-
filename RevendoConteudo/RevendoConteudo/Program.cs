@@ -9,6 +9,7 @@ namespace RevendoConteudo
             /*O valor nao é alterado*/
             const string stConst = "Testando";
             const double dbConst = 3.321;
+            int testBitwich = 20;
 
             double valorCompra = 5.50;
             double valorVenda;
@@ -20,6 +21,10 @@ namespace RevendoConteudo
             //{numero da casa, numero de espaço: tipo monetário}
             //{0,15:c}
             Console.WriteLine("Val.Compra - {0,10:c}", valorCompra);
+
+            testBitwich = testBitwich << 2;
+
+            Console.WriteLine(testBitwich);
         }
     }
 }
