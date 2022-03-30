@@ -4,6 +4,7 @@ namespace RevendoConteudo
 {
     class Program
     {
+        enum Luta { Espada, Escudo, Lança, Arco};
         static void Main(String[] args)
         {
             /*O valor nao é alterado*/
@@ -25,6 +26,12 @@ namespace RevendoConteudo
             testBitwich = testBitwich << 2;
 
             Console.WriteLine(testBitwich);
+
+            int tipoLuta = (int)Luta.Escudo;
+            Console.WriteLine(tipoLuta);
+
+            Luta lt = Luta.Lança;
+            Console.WriteLine(lt);
         }
     }
 }
