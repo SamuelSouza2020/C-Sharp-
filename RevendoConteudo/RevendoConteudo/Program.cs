@@ -6,6 +6,10 @@ namespace RevendoConteudo
     {
         static void Main(String[] args)
         {
+            /*O valor nao é alterado*/
+            const string stConst = "Testando";
+            const double dbConst = 3.321;
+
             double valorCompra = 5.50;
             double valorVenda;
             double lucro = 0.1;
