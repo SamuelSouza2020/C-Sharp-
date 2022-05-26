@@ -2,6 +2,7 @@
 {
     internal class ArrayOrder
     {
+
         public void BubbleSortOrder(ref int[] array)
         {
             int previousValue;
@@ -20,10 +21,12 @@
         }
         public void ArrayPrint(int[] array)
         {
-            for(int i = 0; i < array.Length; i++)
-            {
-                Console.WriteLine(array[i]);
-            }
+            string line = string.Join(", ", array);
+            Console.WriteLine(line);
+        }
+        public void SortOrder(ref int[] array)
+        {
+            Array.Sort(array);
         }
     }
 }

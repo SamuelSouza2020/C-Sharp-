@@ -12,7 +12,8 @@ namespace ArrayStudy
             Console.WriteLine("Origin Array");
             arrayOrder.ArrayPrint(array);
 
-            arrayOrder.BubbleSortOrder(ref array);
+            //arrayOrder.BubbleSortOrder(ref array);
+            arrayOrder.SortOrder(ref array);
             Console.WriteLine("Sorted Array");
             arrayOrder.ArrayPrint(array);
         }
